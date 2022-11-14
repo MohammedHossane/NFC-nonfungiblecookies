@@ -14,6 +14,7 @@ import yellowmacaron from "../../assets/bananamacron.png"
 import obama from "../../assets/obama.png"
 import trump from "../../assets/obamaV2.png"
 import biden from "../../assets/obamaV3.png"
+//test
 
 export default function allCookies() {
   return (
