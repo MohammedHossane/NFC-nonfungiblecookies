@@ -14,7 +14,6 @@ import yellowmacaron from "../../assets/bananamacron.png"
 import obama from "../../assets/obama.png"
 import trump from "../../assets/obamaV2.png"
 import biden from "../../assets/obamaV3.png"
-//test
 
 export default function allCookies() {
   return (
@@ -41,7 +40,7 @@ export default function allCookies() {
       <h1 id="matchaRow2"> Matcha Grass</h1>
 
       <img id="bluemacaron" src={bluemacaron} alt="bluemacaron" />
-      <h1 id="blueRow3"> Blue Sandwich</h1>
+      <h1 id="blueRow3"> Blue.</h1>
 
       <img id="pinkmacaron" src={pinkmacaron} alt="pinkmacaron" />
       <h1 id="pinkRow3"> Pink Matcha</h1>
@@ -50,13 +49,13 @@ export default function allCookies() {
       <h1 id="yellowRow3"> Bannana Pepper</h1>
 
       <img id="obama" src={obama} alt="obama" />
-      <h1 id="obamaRow4"> Obama V1</h1>
+      <h1 id="obamaRow4"> ObamaV1</h1>
 
       <img id="trump" src={trump} alt="trump" />
-      <h1 id="trumpRow4"> Obama V2</h1>
+      <h1 id="trumpRow4"> ObamaV2</h1>
 
       <img id="biden" src={biden} alt="biden" />
-      <h1 id="bidenRow4"> Obama V3</h1>
+      <h1 id="bidenRow4"> ObamaV3</h1>
 
     </div>
   );
