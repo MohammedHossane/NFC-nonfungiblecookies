@@ -3,7 +3,6 @@ import "../Home/home.css";
 import anothercookipic from "../../assets/anothercookipic.png";
 import React from "react";
 
-
 export default function Home() {
   return (
     <div className="border">

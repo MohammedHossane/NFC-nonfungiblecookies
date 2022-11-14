@@ -9,7 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/cookies" element={<CookiePage />}></Route>
-        <Route path="*" element={<Home/>}></Route>
+        <Route path="*" element={<Home />}></Route>
       </Routes>
     </Router>
   );

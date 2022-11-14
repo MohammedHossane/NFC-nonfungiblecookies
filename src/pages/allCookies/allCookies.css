@@ -87,8 +87,6 @@
   height: 340px;
   left: 155px;
   top: 886px;
-
-  
 }
 #chocolateRow2 {
   position: absolute;
@@ -97,16 +95,16 @@
   left: 155px;
   top: 1226px;
 
-  font-family: 'Josefin Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 40px;
-line-height: 40px;
-/* identical to box height */
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
 
-text-align: center;
+  text-align: center;
 
-color: #8D726C;
+  color: #8d726c;
 }
 #redcookie {
   position: absolute;
@@ -116,22 +114,22 @@ color: #8D726C;
   top: 886px;
 }
 #redRow2 {
-    position: absolute;
-    width: 357px;
-    height: 40px;
-    left: 576px;
-    top: 1226px;
-    
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    /* identical to box height */
-    
-    text-align: center;
-    
-    color: #BB3737;
+  position: absolute;
+  width: 357px;
+  height: 40px;
+  left: 576px;
+  top: 1226px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #bb3737;
 }
 #matchacookie {
   position: absolute;
@@ -141,22 +139,22 @@ color: #8D726C;
   top: 886px;
 }
 #matchaRow2 {
-    position: absolute;
-    width: 381px;
-    height: 40px;
-    left: 996px;
-    top: 1226px;
-    
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    /* identical to box height */
-    
-    text-align: center;
-    
-    color: #656C31;
+  position: absolute;
+  width: 381px;
+  height: 40px;
+  left: 996px;
+  top: 1226px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #656c31;
 }
 #bluemacaron {
   position: absolute;
@@ -166,23 +164,22 @@ color: #8D726C;
   top: 1300px;
 }
 #blueRow3 {
-    position: absolute;
-    width: 148px;
-    height: 40px;
-    left: 256px;
-    top: 1642px;
-    
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    /* identical to box height */
-    
-    text-align: center;
-    
-    color: #647C80;
-    
+  position: absolute;
+  width: 148px;
+  height: 40px;
+  left: 256px;
+  top: 1642px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #647c80;
 }
 #pinkmacaron {
   position: absolute;
@@ -192,22 +189,22 @@ color: #8D726C;
   top: 1300px;
 }
 #pinkRow3 {
-    position: absolute;
-    width: 228px;
-    height: 40px;
-    left: 640px;
-    top: 1642px;
-    
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    /* identical to box height */
-    
-    text-align: center;
-    
-    color: #BB3737;
+  position: absolute;
+  width: 228px;
+  height: 40px;
+  left: 640px;
+  top: 1642px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #bb3737;
 }
 #yellowmacaron {
   position: absolute;
@@ -217,22 +214,22 @@ color: #8D726C;
   top: 1300px;
 }
 #yellowRow3 {
-    position: absolute;
-    width: 302px;
-    height: 40px;
-    left: 1035px;
-    top: 1642px;
-    
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    /* identical to box height */
-    
-    text-align: center;
-    
-    color: #D5C33D;
+  position: absolute;
+  width: 302px;
+  height: 40px;
+  left: 1035px;
+  top: 1642px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #d5c33d;
 }
 #obama {
   position: absolute;
@@ -242,22 +239,22 @@ color: #8D726C;
   top: 1714px;
 }
 #obamaRow4 {
-    position: absolute;
-    width: 257px;
-    height: 40px;
-    left: 202px;
-    top: 2058px;
-    
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    /* identical to box height */
-    
-    text-align: center;
-    
-    color: #7CC08B;
+  position: absolute;
+  width: 257px;
+  height: 40px;
+  left: 202px;
+  top: 2058px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #7cc08b;
 }
 #trump {
   position: absolute;
@@ -267,22 +264,22 @@ color: #8D726C;
   top: 1714px;
 }
 #trumpRow4 {
-    position: absolute;
-    width: 235px;
-    height: 40px;
-    left: 637px;
-    top: 2058px;
-    
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    /* identical to box height */
-    
-    text-align: center;
-    
-    color: #F8BD27;
+  position: absolute;
+  width: 235px;
+  height: 40px;
+  left: 637px;
+  top: 2058px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #f8bd27;
 }
 #biden {
   position: absolute;
@@ -292,20 +289,20 @@ color: #8D726C;
   top: 1714px;
 }
 #bidenRow4 {
-    position: absolute;
-    width: 104px;
-    height: 40px;
-    left: 1134px;
-    top: 2058px;
-    
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    /* identical to box height */
-    
-    text-align: center;
-    
-    color: #3574ED;
+  position: absolute;
+  width: 104px;
+  height: 40px;
+  left: 1134px;
+  top: 2058px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #3574ed;
 }
