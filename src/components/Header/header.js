@@ -3,6 +3,7 @@ import menuimg from "../../assets/icons/scenes.png";
 import shopimg from "../../assets/icons/Shopicons_Light_Cart1.png";
 import "../Header/header.css";
 import React from "react";
+import "../../App"
 
 function Header() {
   return (
