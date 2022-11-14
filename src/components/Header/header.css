@@ -1,0 +1,67 @@
+.flexcontainer {
+  background-color: darkred;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homeImg {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  left: 164px;
+  top: 62px;
+}
+.homeText {
+  font-size: 40px;
+  color: #fb8d28;
+  font-family: "Josefin Sans", sans-serif;
+  position: absolute;
+  left: 203px;
+  top: 39px;
+}
+.menuImg {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  left: 394px;
+  top: 62px;
+}
+.menuText {
+  font-size: 40px;
+  color: #fb8d28;
+  font-family: "Josefin Sans", sans-serif;
+  position: absolute;
+  left: 436px;
+  top: 39px;
+}
+.nfcText {
+  font-size: 96px;
+  color: #fb8d28;
+  font-family: "Josefin Sans", sans-serif;
+  position: absolute;
+  left: 652px;
+  top: -19px;
+}
+.nonfungiblecookiesText {
+  font-size: 24px;
+  color: #fb8d28;
+  font-family: "Josefin Sans", sans-serif;
+  position: absolute;
+  left: 851px;
+  top: 60px;
+}
+.shopImg {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  left: 1137px;
+  top: 60px;
+}
+.shopText {
+  font-size: 40px;
+  color: #fb8d28;
+  font-family: "Josefin Sans", sans-serif;
+  position: absolute;
+  left: 1181px;
+  top: 39px;
+}

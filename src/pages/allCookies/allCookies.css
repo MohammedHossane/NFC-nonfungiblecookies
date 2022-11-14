@@ -1,0 +1,93 @@
+
+#bannerSugarCookie {
+  width: 1288px;
+  height: 243px;
+  left: 113px;
+  top: 155px;
+  border-radius: 15px;
+  position: absolute;
+}
+#pinksugarcookie {
+  position: absolute;
+  width: 340px;
+  height: 340px;
+  left: 155px;
+  top: 472px;
+}
+#whitesugarcookie {
+  position: absolute;
+  width: 340px;
+  height: 340px;
+  left: 586px;
+  top: 472px;
+}
+#invisiblesugarcookie {
+  position: absolute;
+  width: 340px;
+  height: 340px;
+  left: 1017px;
+  top: 472px;
+}
+#chocolatecookie {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 155px;
+    top: 886px;
+}
+#redcookie {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 586px;
+    top: 886px;
+}
+#matchacookie {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 1017px;
+    top: 886px;
+}
+#bluemacaron {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 155px;
+    top: 1300px;
+}
+#pinkmacaron {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 586px;
+    top: 1300px;
+}
+#yellowmacaron {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 1017px;
+    top: 1300px;
+}
+#obama {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 155px;
+    top: 1714px;
+}
+#trump {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 586px;
+    top: 1714px;
+}
+#biden {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    left: 1017px;
+    top: 1714px;
+}
