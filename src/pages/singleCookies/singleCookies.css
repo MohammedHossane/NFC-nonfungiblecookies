@@ -1,0 +1,38 @@
+.cookieImg {
+  position: absolute;
+  width: 681px;
+  height: 681px;
+  left: 112px;
+  top: 155px;
+  border-radius: 15px;
+}
+.description {
+  position: absolute;
+  width: 534px;
+  height: 128px;
+  left: 886px;
+  top: 370px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 36px;
+
+  color: #000000;
+}
+#pinkSugarCookieText {
+  position: absolute;
+  width: 534px;
+  height: 128px;
+  left: 886px;
+  top: 163px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 86px;
+  line-height: 86px;
+
+  color: #f7adb8;
+}
