@@ -14,6 +14,7 @@ import yellowmacaron from "../../assets/bananamacron.png";
 import obama from "../../assets/obama.png";
 import trump from "../../assets/obamaV2.png";
 import biden from "../../assets/obamaV3.png";
+import { Link } from "react-router-dom";
 
 export default function allCookies() {
   return (
@@ -26,7 +27,7 @@ export default function allCookies() {
       />
 
       <img id="pinksugarcookie" src={pinksugarcookie} alt="pinksugarcookie" />
-      <h1 id="pinkRow1"> Pink Unicorn Dust</h1>
+      <Link to="/pinkSugarCookie"id="pinkRow1"> Pink Unicorn Dust</Link>
 
       <img
         id="whitesugarcookie"

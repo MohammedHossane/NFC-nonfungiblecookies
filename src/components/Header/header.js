@@ -4,22 +4,22 @@ import shopimg from "../../assets/icons/Shopicons_Light_Cart1.png";
 import "../Header/header.css";
 import React from "react";
 import "../../App"
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
     <div className="flexcontainer">
-      <div className="homebutton">
         <img className="homeImg" src={homeimg} alt="homeIMG" />
-        <h1 className="homeText">HOME</h1>
-      </div>
+        <Link to="/" className="homeText">HOME</Link>
+      
       <img className="menuImg" src={menuimg} alt="menuIMG" />
-      <h1 className="menuText">MENU</h1>
+      <Link to="/cookies"className="menuText">MENU</Link>
 
       <h1 className="nfcText">NFC</h1>
       <h1 className="nonfungiblecookiesText">Nonfungible Cookies</h1>
 
       <img className="shopImg" src={shopimg} alt="shopIMG" />
-      <h1 className="shopText">SHOP</h1>
+      <Link to="/cookies" className="shopText">SHOP</Link>
     </div>
   );
 }
