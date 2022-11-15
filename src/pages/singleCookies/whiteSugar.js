@@ -7,7 +7,7 @@ export default function whiteSugar() {
     <div>
       <Header></Header>
       <img className="cookieImg" src={whitesugarcookie} alt="whitesugarcookie" />
-      <h1 id="pinkSugarCookieText">Snow White White</h1>
+      <h1 id="whiteSugarCookieText">Snow White White</h1>
       <p className="description">Sugar Cookie with icing made of snow white white!</p>
     </div>
   );

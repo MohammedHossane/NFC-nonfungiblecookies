@@ -41,34 +41,34 @@ export default function allCookies() {
         src={invisiblesugarcookie}
         alt="invisiblesugarcookie"
       />
-      <h1 id="invisRow1"> Invisible Night Icing</h1>
+      <Link to="/invisSugarCookie" id="invisRow1"> Invisible Night Icing</Link>
 
       <img id="chocolatecookie" src={chocolatecookie} alt="chocolatecookie" />
-      <h1 id="chocolateRow2"> Beef</h1>
+      <Link to="/beefCookie" id="chocolateRow2"> Beef</Link>
 
       <img id="redcookie" src={redcookie} alt="redcookie" />
-      <h1 id="redRow2"> Mushroom</h1>
+      <Link to="/mushroomCookie" id="redRow2"> Mushroom</Link>
 
       <img id="matchacookie" src={matchacookie} alt="matchacookie" />
-      <h1 id="matchaRow2"> Matcha Grass</h1>
+      <Link to="/matchaCookie" id="matchaRow2"> Matcha Grass</Link>
 
       <img id="bluemacaron" src={bluemacaron} alt="bluemacaron" />
-      <h1 id="blueRow3"> Blue.</h1>
+      <Link to="/blueMacaron" id="blueRow3"> Blue.</Link>
 
       <img id="pinkmacaron" src={pinkmacaron} alt="pinkmacaron" />
-      <h1 id="pinkRow3"> Pink Matcha</h1>
+      <Link to="/pinkMacaron" id="pinkRow3"> Pink Matcha</Link>
 
       <img id="yellowmacaron" src={yellowmacaron} alt="yellowmacaron" />
-      <h1 id="yellowRow3"> Bannana Pepper</h1>
+      <Link to="/yellowMacaron" id="yellowRow3"> Bannana Pepper</Link>
 
       <img id="obama" src={obama} alt="obama" />
-      <h1 id="obamaRow4"> ObamaV1</h1>
+      <Link to="/obama" id="obamaRow4"> ObamaV1</Link>
 
       <img id="trump" src={trump} alt="trump" />
-      <h1 id="trumpRow4"> ObamaV2</h1>
+      <Link to="/trump" id="trumpRow4"> ObamaV2</Link>
 
       <img id="biden" src={biden} alt="biden" />
-      <h1 id="bidenRow4"> ObamaV3</h1>
+      <Link to="/biden" id="bidenRow4"> ObamaV3</Link>
     </div>
   );
 }

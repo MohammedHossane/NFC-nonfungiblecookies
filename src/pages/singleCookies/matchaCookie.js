@@ -1,14 +1,14 @@
 import Header from "../../components/Header/header";
-import pinksugarcookie from "../../assets/pinksugarcookie.png";
+import matchacookie from "../../assets/matchacookie.png";
 import "../singleCookies/singleCookies.css"
 
-export default function pinkSugar() {
+export default function matchaCookie() {
   return (
     <div>
       <Header></Header>
-      <img className="cookieImg" src={pinksugarcookie} alt="pinksugarcookie" />
-      <h1 id="pinkSugarCookieText">Pink Unicorn Dust</h1>
-      <p className="description">Sugar Cookie with icing made of a pink unicorn!</p>
+      <img className="cookieImg" src={matchacookie} alt="matchacookie" />
+      <h1 id="matchaCookieText">Matcha Grass</h1>
+      <p className="description">Cookie made of matcha grass found in a 139mph wind speed field.</p>
     </div>
   );
 }

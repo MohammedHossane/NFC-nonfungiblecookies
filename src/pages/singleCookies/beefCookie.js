@@ -1,14 +1,14 @@
 import Header from "../../components/Header/header";
-import pinksugarcookie from "../../assets/pinksugarcookie.png";
+import chocolatecookie from "../../assets/chocolatechipcookie.png";
 import "../singleCookies/singleCookies.css"
 
-export default function pinkSugar() {
+export default function beefCookie() {
   return (
     <div>
       <Header></Header>
-      <img className="cookieImg" src={pinksugarcookie} alt="pinksugarcookie" />
-      <h1 id="pinkSugarCookieText">Pink Unicorn Dust</h1>
-      <p className="description">Sugar Cookie with icing made of a pink unicorn!</p>
+      <img className="cookieImg" src={chocolatecookie} alt="beef" />
+      <h1 id="beefCookieText">Beef</h1>
+      <p className="description">Cookie made of Japan cow.</p>
     </div>
   );
 }
