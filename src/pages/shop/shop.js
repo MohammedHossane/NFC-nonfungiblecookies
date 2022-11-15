@@ -11,7 +11,7 @@ export default function Shop(){
         <div>
             <Header></Header>
 
-            <Money> find me and throw all ur money at me. (not coin money tho those hurt just the paper kind :) </Money>
+            <Money> find me and throw all ur money at me. (not coin money tho those hurt just the paper kind :) you wont get a cookie in return. </Money>
             
         </div>
     )
