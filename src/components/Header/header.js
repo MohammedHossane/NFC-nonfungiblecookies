@@ -19,7 +19,7 @@ function Header() {
       <h1 className="nonfungiblecookiesText">Nonfungible Cookies</h1>
 
       <img className="shopImg" src={shopimg} alt="shopIMG" />
-      <Link to="/cookies" className="shopText">SHOP</Link>
+      <Link to="/shop" className="shopText">SHOP</Link>
     </div>
   );
 }

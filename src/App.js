@@ -13,6 +13,7 @@ import YellowMacaron from "./pages/singleCookies/bananaMacaron";
 import Obama from "./pages/singleCookies/obamaCookie";
 import Trump from "./pages/singleCookies/trumpCookie";
 import Biden from "./pages/singleCookies/bidenCookie";
+import Shop from "./pages/shop/shop"
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
@@ -23,6 +24,7 @@ function App() {
         <Route path="/" element={<Home />}></Route>
         <Route path="/cookies" element={<CookiePage />}></Route>
         <Route path="*" element={<Home />}></Route>
+        <Route path="/shop" element={<Shop />}></Route>
         <Route path="/pinkSugarCookie" element={<PinkSugar />}></Route>
         <Route path="/whiteSugarCookie" element={<WhiteSugar />}></Route>
         <Route path="/invisSugarCookie" element={<InvisSugar />}></Route>
