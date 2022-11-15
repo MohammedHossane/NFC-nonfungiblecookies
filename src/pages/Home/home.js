@@ -1,6 +1,6 @@
 import Header from "../../components/Header/header";
 import "../Home/home.css";
-import anothercookipic from "../../assets/anothercookipic.png";
+import anothercookipic2 from "../../assets/anothercookipic2.png";
 import React from "react";
 
 export default function Home() {
@@ -16,7 +16,7 @@ export default function Home() {
           borderRadius: 15,
           position: "absolute",
         }}
-        src={anothercookipic}
+        src={anothercookipic2}
         alt="bigcookiepic"
       />
     </div>
