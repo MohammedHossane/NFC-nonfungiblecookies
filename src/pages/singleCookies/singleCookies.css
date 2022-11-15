@@ -37,6 +37,21 @@
   color: #f7adb8;
 }
 #whiteSugarCookieText {
+  position: absolute;
+  width: 534px;
+  height: 128px;
+  left: 846px;
+  top: 163px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 86px;
+  line-height: 86px;
+
+  color: #000000;
+}
+#bananaMacaron {
     position: absolute;
     width: 534px;
     height: 128px;
@@ -49,6 +64,140 @@
     font-size: 86px;
     line-height: 86px;
   
-    color: #000000;
+    color: #D4C33D;
   }
+  #beefCookieText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
   
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: #8D726C;
+  }
+  #ObamaV3CookieText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
+  
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: #3574ED;
+  }
+  #blueMacaronText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
+  
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: #647C80;
+  }
+  #invisSugarCookieText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
+  
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: rgba(0, 0, 0, 0.33);
+  }
+  #matchaCookieText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
+  
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: #656C31;
+  }
+  #mushroomCookieText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
+  
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: #BB3737;
+  }
+  #obamaCookieText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
+  
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: #7CC08B;
+  }
+  #pinkMacaronText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
+  
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: #BB3737;
+  }
+  #trumpCookieText {
+    position: absolute;
+    width: 534px;
+    height: 128px;
+    left: 846px;
+    top: 163px;
+  
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 86px;
+  
+    color: #F8BD27;
+  }
