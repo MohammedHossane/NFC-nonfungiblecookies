@@ -34,7 +34,7 @@ export default function allCookies() {
         src={whitesugarcookie}
         alt="whitesugarcookie"
       />
-      <h1 id="snowRow1"> Snow White White</h1>
+      <Link to="/whiteSugarCookie" id="snowRow1"> Snow White White</Link>
 
       <img
         id="invisiblesugarcookie"
